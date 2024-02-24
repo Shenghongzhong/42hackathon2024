@@ -90,7 +90,6 @@ export default function HomePage({
         className="mx-auto mt-6 flex items-center justify-center space-x-5"
         style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
       >
-
       </div>
       <h1 className="sm:text-6xl text-4xl max-w-[708px] font-bold text-slate-900">
         {siteConfig.description}
